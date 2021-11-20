@@ -16,6 +16,7 @@ DataSet: https://drive.google.com/drive/folders/1Sgm2ASZv4S1RX2k8i03TyHIU7YWPfFH
 
 Data Set Details: Data set comprises of columns including id, price, year, mileage, city, state, vin, make, and model
 
+Question 2: Perform EDA on the sales of cars across regions and visualize them in the most appropriate manner.
 
 Question 3: You are an analytics person, you have been assigned a task to perform a quality analysis of cars based on year of manufacturer, mileage, model, make, state. Write a program to perform this analysis and visualize the output followed by your study and conclusion.
  
