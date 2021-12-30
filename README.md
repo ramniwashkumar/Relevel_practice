@@ -16,6 +16,8 @@ DataSet: https://drive.google.com/drive/folders/1Sgm2ASZv4S1RX2k8i03TyHIU7YWPfFH
 
 Data Set Details: Data set comprises of columns including id, price, year, mileage, city, state, vin, make, and model
 
+Data Visualization with Tableau: https://public.tableau.com/app/profile/ramniwashkumar/viz/car_project/Sheet5
+
 Question 1: Write a program to find Top 10 old cars based on Year of manufacturing and mileage driven.
 
 Question 2: Perform EDA on the sales of cars across regions and visualize them in the most appropriate manner.
